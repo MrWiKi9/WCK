@@ -3,7 +3,7 @@
  #!/usr/bin/python
  # uncompyle6 version 3.7.4
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
-os.system('rm -rf wiki')
+os.system('rm -rf .txt')
  
 def psb(z):
     for e in z + '\n':
